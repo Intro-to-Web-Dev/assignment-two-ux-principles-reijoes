@@ -1,0 +1,39 @@
+
+body{
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid gray;
+    box-shadow: 15px 10px 10px lightgrey;
+    padding-left: 50px;
+    padding-right: 50px;   
+    padding-bottom: 30px;
+    text-align: center;
+}
+.wireframe{
+    width: 100%; 
+    height: auto;
+    box-shadow: 5px 5px 5px #66747C;
+}
+#content{
+    font-size: 15pt;
+    text-align: left;
+}
+#sitemap{
+    margin-bottom: 35px;
+    width: 82%; 
+    height: auto;    
+    box-shadow: 5px 5px 10px #66747C;
+}
+#req1{
+    margin-bottom: 100px;
+    margin-top: 70px;
+}
+#signature{
+    font-style: italic;
+}
+.heading{
+    margin-bottom: 80px;
+}
+
